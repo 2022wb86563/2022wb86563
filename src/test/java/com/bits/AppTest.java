@@ -31,6 +31,7 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
+    // Updated for Continuous Integration testing
     public void testApp()
     {
         assertTrue( true );
